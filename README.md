@@ -21,5 +21,5 @@ Parallel is an entertainment/social application available on MacOS, Windows and 
 <b>Policies</b>
 View all policies <a target="_blank" href="https://parallelsocial.net/policies.pdf">here</a>.
 
-<b>�Codebase</b>
+<b>Codebase</b>
 All rights reserved.
