@@ -1,6 +1,8 @@
-<h1 align="center">
-  Parallel
-</h1>
+<p align="center">
+  <img width="240" src="app/assets/images/logo_full.png">
+  <br><br>
+  <img src="https://img.shields.io/github/stars/r0hin/parallel?style=for-the-badge" />
+</p>
 
 <p align="center">
   ·
@@ -10,16 +12,15 @@
   ·
 </p>
 
-<b>About</b>
+<b>Profile</b>
 Parallel is an entertainment/social application available on MacOS, Windows and Linux. Our mission is to build communities through relatability of taste in music and shared experiences.
 
-<b>Support Us</b>
-- Report bugs and feature requests.
+<b>Support</b>
+Feel free to support us in any way you like by:
+- Contributing to our GitHub codebase.
+- Reporting bugs and feature requests. 
 - Sending us tips and donations.
-- Spreading the word!
+- Spreading the word.
 
 <b>Policies</b>
 View all policies <a target="_blank" href="https://parallelsocial.net/policies.pdf">here</a>.
-
-<b>Codebase</b>
-All rights reserved.
